@@ -1,0 +1,1 @@
+a:4:{s:10:"installUrl";s:68:"https://github.com/phpList/phplist-plugin-restapi/archive/stable.zip";s:9:"developer";s:7:"phpList";s:11:"projectName";s:22:"phplist-plugin-restapi";s:11:"installDate";i:1430301077;}
